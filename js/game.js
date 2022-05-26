@@ -1,0 +1,10 @@
+let GoldIM = new Image();
+let GoldIM1 = new Image();
+let GoldIM2= new Image();
+let StoneIm= new Image();
+let DiamondIM= new Image();
+GoldIM.src ="images/";
+GoldIM1.src ="images/";
+GoldIM2.src ="images/";
+StoneIm.src ="images/";
+DiamondIM.src ="images/";
